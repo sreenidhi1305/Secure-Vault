@@ -78,5 +78,5 @@ For the full experience, select **Option 6** in the menu to launch the GUI.
 While it provides effective detection mechanisms, it is not a replacement for enterprise-grade antivirus or anti-ransomware solutions. Use this tool to augment your security posture and for educational purposes.
 
 ---
-*Created by Kiran*
+
 
